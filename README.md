@@ -1,4 +1,6 @@
 # matlab-cnn
- 
+Matlab | deep network designer
+convolutional neural network using matlab visualization tool
+
 ## youtube tutorial
-[![Flask streaming Pedestrians detection using python opencv ](https://img.youtube.com/watch?v=9_yFFUbSOss/0.jpg)](https://www.youtube.com/watch?v=9_yFFUbSOss)
+[![Matlab | deep network designer ](https://img.youtube.com/watch?v=9_yFFUbSOss/0.jpg)](https://www.youtube.com/watch?v=9_yFFUbSOss)
