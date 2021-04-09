@@ -7,5 +7,5 @@ convolutional neural network using matlab visualization tool
 
 
 
-#### cnn flow
+#### CNN Flow
 ![alt text](https://github.com/seraj94ai/matlab-cnn/blob/main/cnn_flow.PNG)
