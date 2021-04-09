@@ -1,4 +1,4 @@
-# matlab-cnn
+# MATLAB-CNN
 Matlab | deep network designer
 convolutional neural network using matlab visualization tool
 
